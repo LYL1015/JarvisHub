@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.jarvishub.site/"><img src="https://img.shields.io/badge/Project-Page-111111.svg?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=white" alt="项目主页"></a>
   <a href="https://arxiv.org/pdf/2607.23588"><img src="https://img.shields.io/badge/arXiv-Paper-111111.svg?style=for-the-badge&labelColor=000000&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
-  <a href="https://huggingface.co/papers/2607.23588"><img src="https://img.shields.io/badge/Hugging%20Face-Paper-111111.svg?style=for-the-badge&labelColor=000000&logo=huggingface&logoColor=white" alt="Hugging Face Paper"></a>
+  <a href="https://huggingface.co/papers/2607.23588"><img src="https://img.shields.io/badge/Hugging%20Face-Daily%20Papers%20%233-111111.svg?style=for-the-badge&labelColor=000000&logo=huggingface&logoColor=white" alt="Hugging Face Daily Papers #3"></a>
   <a href="README.md"><img src="https://img.shields.io/badge/README-English-111111.svg?style=for-the-badge&labelColor=000000&logo=markdown&logoColor=white" alt="English README"></a>
 </p>
 
@@ -260,6 +260,15 @@ run.sh              # 本地开发统一入口
 ## 📖 引用
 
 阅读 [JarvisHub 论文（PDF）](https://arxiv.org/pdf/2607.23588)。
+
+```bibtex
+@article{lin2026jarvishub,
+  title={JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents},
+  author={Lin, Yunlong and Lin, Zixu and Xing, Zhaohu and Li, Biqiang and Li, Chenxin and Wang, Haonan and Wu, Haitao and Liu, Hengyu and Chen, Jianghai and Feng, Kaituo and others},
+  journal={arXiv preprint arXiv:2607.23588},
+  year={2026}
+}
+```
 
 ---
 
