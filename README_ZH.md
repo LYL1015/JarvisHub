@@ -259,8 +259,6 @@ run.sh              # 本地开发统一入口
 
 ## 📖 引用
 
-阅读 [JarvisHub 论文（PDF）](https://arxiv.org/pdf/2607.23588)。
-
 ```bibtex
 @article{lin2026jarvishub,
   title={JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents},

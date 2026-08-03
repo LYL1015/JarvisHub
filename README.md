@@ -267,8 +267,6 @@ run.sh              # Single local-development entry point
 
 ## 📖 Citation
 
-Read the [JarvisHub paper (PDF)](https://arxiv.org/pdf/2607.23588).
-
 ```bibtex
 @article{lin2026jarvishub,
   title={JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents},
